@@ -34,9 +34,7 @@ public class getCookie {
                 bufferedWriter.newLine();
             }
             bufferedWriter.close();
-        } catch(
-                IOException e)
-
+        } catch(IOException e)
         {
             e.printStackTrace();
         }

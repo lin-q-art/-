@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/-" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -33,6 +36,7 @@
     <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProjectId" id="1cIFTNA5mRisf5jYFmlU2dKglX9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -48,7 +52,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -67,37 +71,50 @@
       <recent name="test_web.wework.page" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestSelenium.TestSelenium">
-    <configuration name="TestDemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestContact.testSearch">
+    <configuration name="TestContact" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestJunit" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestDemoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_web.wework.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_web.wework.testcase" />
+      <option name="MAIN_CLASS_NAME" value="test_web.wework.testcase.TestContact" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemoTest.testDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestContact.testAddMember" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestJunit" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestDemoTest" />
-      <option name="METHOD_NAME" value="testDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_web.wework.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_web.wework.testcase" />
+      <option name="MAIN_CLASS_NAME" value="test_web.wework.testcase.TestContact" />
+      <option name="METHOD_NAME" value="testAddMember" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSelenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestContact.testSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test_web.*" />
+          <option name="PATTERN" value="test_web.wework.testcase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test_web" />
-      <option name="MAIN_CLASS_NAME" value="test_web.TestSelenium" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="test_web.wework.testcase" />
+      <option name="MAIN_CLASS_NAME" value="test_web.wework.testcase.TestContact" />
+      <option name="METHOD_NAME" value="testSearch" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestContact.testSearch" />
+        <item itemvalue="JUnit.TestContact.testAddMember" />
+        <item itemvalue="JUnit.TestContact" />
         <item itemvalue="JUnit.TestSelenium.TestSelenium" />
         <item itemvalue="JUnit.getCookie.getCookies" />
-        <item itemvalue="JUnit.TestSelenium" />
-        <item itemvalue="JUnit.TestDemoTest" />
-        <item itemvalue="JUnit.TestDemoTest.testDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +203,7 @@
       <workItem from="1592389494796" duration="4247000" />
       <workItem from="1592396126338" duration="1281000" />
       <workItem from="1592481312883" duration="6090000" />
-      <workItem from="1592562070750" duration="513000" />
+      <workItem from="1592562070750" duration="6878000" />
     </task>
     <servers />
   </component>
@@ -214,34 +231,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1078" y="384" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591022853571" />
-    <state x="1122" y="235" key="FileChooserDialogImpl" timestamp="1590209750761">
+    <state x="1122" y="235" key="FileChooserDialogImpl" timestamp="1592570103228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1122" y="235" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590209750761" />
-    <state width="1245" height="616" key="GridCell.Tab.0.bottom" timestamp="1592491872950">
+    <state x="1122" y="235" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592570103228" />
+    <state width="1407" height="245" key="GridCell.Tab.0.bottom" timestamp="1592575924817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1245" height="616" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592491872950" />
-    <state width="1245" height="616" key="GridCell.Tab.0.center" timestamp="1592491872950">
+    <state width="1407" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592575924817" />
+    <state width="1407" height="245" key="GridCell.Tab.0.center" timestamp="1592575924817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1245" height="616" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592491872950" />
-    <state width="1245" height="616" key="GridCell.Tab.0.left" timestamp="1592491872950">
+    <state width="1407" height="245" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592575924817" />
+    <state width="1407" height="245" key="GridCell.Tab.0.left" timestamp="1592575924816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1245" height="616" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592491872950" />
-    <state width="1245" height="616" key="GridCell.Tab.0.right" timestamp="1592491872950">
+    <state width="1407" height="245" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592575924816" />
+    <state width="1407" height="245" key="GridCell.Tab.0.right" timestamp="1592575924817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1245" height="616" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592491872950" />
+    <state width="1407" height="245" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592575924817" />
+    <state width="1407" height="324" key="GridCell.Tab.1.bottom" timestamp="1592574385333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1407" height="324" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592574385333" />
+    <state width="1407" height="324" key="GridCell.Tab.1.center" timestamp="1592574385333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1407" height="324" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592574385333" />
+    <state width="1407" height="324" key="GridCell.Tab.1.left" timestamp="1592574385333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1407" height="324" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592574385333" />
+    <state width="1407" height="324" key="GridCell.Tab.1.right" timestamp="1592574385333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1407" height="324" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592574385333" />
     <state x="659" y="354" key="Maven.ArtifactSearchDialog" timestamp="1591023493815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="659" y="354" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591023493815" />
-    <state x="623" y="165" key="SettingsEditor" timestamp="1590589794939">
+    <state x="623" y="165" key="SettingsEditor" timestamp="1592570104456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590589794939" />
+    <state x="623" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592570104456" />
     <state x="832" y="471" key="chooseDestDirectoryDialog" timestamp="1590209603873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
