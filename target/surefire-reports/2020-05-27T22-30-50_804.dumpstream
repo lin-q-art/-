@@ -1,0 +1,21 @@
+# Created on 2020-05-27T22:30:50.812
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+
+# Created on 2020-05-27T22:30:50.815
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+
+# Created on 2020-05-27T22:30:50.817
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+
+# Created on 2020-05-27T22:30:51.784
+五月 27, 2020 10:30:51 下午 org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created on 2020-05-27T22:30:51.787
+警告: Configuration error: invalid tag syntax in @Tag("") declaration on [void junit5.CalcTest.div()]. Tag will be ignored.
+
+# Created on 2020-05-27T22:30:51.819
+五月 27, 2020 10:30:51 下午 org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
+
+# Created on 2020-05-27T22:30:51.821
+警告: Configuration error: invalid tag syntax in @Tag("") declaration on [void junit5.CalcTest.div()]. Tag will be ignored.
+

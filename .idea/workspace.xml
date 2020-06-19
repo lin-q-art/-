@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ce5a4c3-996f-4002-98e8-49776205f474" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven-repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xms1024m -Xmx2048m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1cIFTNA5mRisf5jYFmlU2dKglX9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="junit5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Test_java\IdeaProjects\TestJunit\src\test\java\test_web\wework" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="junit5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="test_web.wework.page" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestSelenium.TestSelenium">
+    <configuration name="TestDemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestJunit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDemoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemoTest.testDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestJunit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDemoTest" />
+      <option name="METHOD_NAME" value="testDemo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_web" />
+      <option name="MAIN_CLASS_NAME" value="test_web.TestSelenium" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium.TestSelenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_web" />
+      <option name="MAIN_CLASS_NAME" value="test_web.TestSelenium" />
+      <option name="METHOD_NAME" value="TestSelenium" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getCookie.getCookies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_web.wework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_web.wework" />
+      <option name="MAIN_CLASS_NAME" value="test_web.wework.getCookie" />
+      <option name="METHOD_NAME" value="getCookies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSelenium.TestSelenium" />
+        <item itemvalue="JUnit.getCookie.getCookies" />
+        <item itemvalue="JUnit.TestSelenium" />
+        <item itemvalue="JUnit.TestDemoTest" />
+        <item itemvalue="JUnit.TestDemoTest.testDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ce5a4c3-996f-4002-98e8-49776205f474" name="Default Changelist" comment="" />
+      <created>1590208207354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590208207354</updated>
+      <workItem from="1590208212737" duration="1050000" />
+      <workItem from="1590209287865" duration="9573000" />
+      <workItem from="1590248294084" duration="535000" />
+      <workItem from="1590580059531" duration="114000" />
+      <workItem from="1590586855331" duration="2239000" />
+      <workItem from="1590589725791" duration="764000" />
+      <workItem from="1590590515868" duration="317000" />
+      <workItem from="1590819987300" duration="1244000" />
+      <workItem from="1590936194576" duration="2600000" />
+      <workItem from="1591014679627" duration="1554000" />
+      <workItem from="1591023075805" duration="5578000" />
+      <workItem from="1592282845000" duration="102000" />
+      <workItem from="1592283032960" duration="15000" />
+      <workItem from="1592283569064" duration="57000" />
+      <workItem from="1592283771901" duration="76000" />
+      <workItem from="1592284440781" duration="14000" />
+      <workItem from="1592310332049" duration="873000" />
+      <workItem from="1592389494796" duration="4247000" />
+      <workItem from="1592396126338" duration="1281000" />
+      <workItem from="1592481312883" duration="6090000" />
+      <workItem from="1592562070750" duration="513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="903" y="203" key="#Project_Structure" timestamp="1590211115856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="903" y="203" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1590211115856" />
+    <state x="445" y="100" width="1298" height="790" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1590211717960">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="445" y="100" width="1298" height="790" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590211717960" />
+    <state x="1162" y="519" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590937046917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1162" y="519" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590937046917" />
+    <state x="1145" y="363" width="431" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590214772033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1145" y="363" width="431" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1590214772033" />
+    <state x="1078" y="384" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591022853571">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1078" y="384" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591022853571" />
+    <state x="1122" y="235" key="FileChooserDialogImpl" timestamp="1590209750761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1122" y="235" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590209750761" />
+    <state width="1245" height="616" key="GridCell.Tab.0.bottom" timestamp="1592491872950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1245" height="616" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592491872950" />
+    <state width="1245" height="616" key="GridCell.Tab.0.center" timestamp="1592491872950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1245" height="616" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592491872950" />
+    <state width="1245" height="616" key="GridCell.Tab.0.left" timestamp="1592491872950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1245" height="616" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592491872950" />
+    <state width="1245" height="616" key="GridCell.Tab.0.right" timestamp="1592491872950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1245" height="616" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592491872950" />
+    <state x="659" y="354" key="Maven.ArtifactSearchDialog" timestamp="1591023493815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="659" y="354" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591023493815" />
+    <state x="623" y="165" key="SettingsEditor" timestamp="1590589794939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590589794939" />
+    <state x="832" y="471" key="chooseDestDirectoryDialog" timestamp="1590209603873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="471" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590209603873" />
+    <state x="545" y="352" width="615" height="352" key="com.intellij.ide.util.TipDialog" timestamp="1592562072936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="545" y="352" width="615" height="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592562072936" />
+    <state x="1234" y="234" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590214601435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1234" y="234" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590214601435" />
+    <state x="408" y="189" key="new project wizard" timestamp="1590580176324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="408" y="189" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590580176324" />
+    <state x="616" y="235" key="run.anything.popup" timestamp="1592485663365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592485663365" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/test_web/TestSelenium.java</url>
+          <line>20</line>
+          <properties class="test_web.TestSelenium" method="TestSelenium">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

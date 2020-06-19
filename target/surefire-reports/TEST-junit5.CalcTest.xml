@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="junit5.CalcTest" time="0.432" tests="1" errors="0" skipped="0" failures="0">
+  <properties>y
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\Test_java\IdeaProjects\TestJunit\target\test-classes;D:\Test_java\IdeaProjects\TestJunit\target\classes;C:\Users\Administrator\.m2\repository\org\junit\jupiter\junit-jupiter\5.7.0-M1\junit-jupiter-5.7.0-M1.jar;C:\Users\Administrator\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0-M1\junit-jupiter-api-5.7.0-M1.jar;C:\Users\Administrator\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Administrator\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Administrator\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0-M1\junit-platform-commons-1.7.0-M1.jar;C:\Users\Administrator\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.7.0-M1\junit-jupiter-params-5.7.0-M1.jar;C:\Users\Administrator\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0-M1\junit-jupiter-engine-5.7.0-M1.jar;C:\Users\Administrator\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0-M1\junit-platform-engine-1.7.0-M1.jar;C:\Users\Administrator\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar;C:\Users\Administrator\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\Administrator\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.8\jackson-core-2.9.8.jar;C:\Users\Administrator\.m2\repository\com\fasterxml\jackson\dataformat\jackson-dataformat-yaml\2.9.9\jackson-dataformat-yaml-2.9.9.jar;C:\Users\Administrator\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23.jar;C:\Users\Administrator\.m2\repository\io\qameta\allure\allure-junit5\2.13.3\allure-junit5-2.13.3.jar;C:\Users\Administrator\.m2\repository\io\qameta\allure\allure-junit-platform\2.13.3\allure-junit-platform-2.13.3.jar;C:\Users\Administrator\.m2\repository\io\qameta\allure\allure-java-commons\2.13.3\allure-java-commons-2.13.3.jar;C:\Users\Administrator\.m2\repository\io\qameta\allure\allure-model\2.13.3\allure-model-2.13.3.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\Administrator\.m2\repository\org\apache\tika\tika-core\1.20\tika-core-1.20.jar;C:\Users\Administrator\.m2\repository\org\jooq\joor-java-8\0.9.10\joor-java-8-0.9.10.jar;C:\Users\Administrator\.m2\repository\org\junit\platform\junit-platform-launcher\1.5.2\junit-platform-launcher-1.5.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\Java\jdk1.8.0_45\jre\bin"/>
+    <property name="sun.java.command" value="d:\tmp\surefire100757672549697299\surefirebooter797012649256333957.jar D:\tmp\surefire100757672549697299 2020-05-27T22-29-43_605-jvmRun1 surefire5068108513681756020tmp surefire_02831198354754889611tmp"/>
+    <property name="surefire.test.class.path" value="D:\Test_java\IdeaProjects\TestJunit\target\test-classes;D:\Test_java\IdeaProjects\TestJunit\target\classes;C:\Users\Administrator\.m2\repository\org\junit\jupiter\junit-jupiter\5.7.0-M1\junit-jupiter-5.7.0-M1.jar;C:\Users\Administrator\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0-M1\junit-jupiter-api-5.7.0-M1.jar;C:\Users\Administrator\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Administrator\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Administrator\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0-M1\junit-platform-commons-1.7.0-M1.jar;C:\Users\Administrator\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.7.0-M1\junit-jupiter-params-5.7.0-M1.jar;C:\Users\Administrator\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0-M1\junit-jupiter-engine-5.7.0-M1.jar;C:\Users\Administrator\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0-M1\junit-platform-engine-1.7.0-M1.jar;C:\Users\Administrator\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar;C:\Users\Administrator\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\Administrator\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.8\jackson-core-2.9.8.jar;C:\Users\Administrator\.m2\repository\com\fasterxml\jackson\dataformat\jackson-dataformat-yaml\2.9.9\jackson-dataformat-yaml-2.9.9.jar;C:\Users\Administrator\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23.jar;C:\Users\Administrator\.m2\repository\io\qameta\allure\allure-junit5\2.13.3\allure-junit5-2.13.3.jar;C:\Users\Administrator\.m2\repository\io\qameta\allure\allure-junit-platform\2.13.3\allure-junit-platform-2.13.3.jar;C:\Users\Administrator\.m2\repository\io\qameta\allure\allure-java-commons\2.13.3\allure-java-commons-2.13.3.jar;C:\Users\Administrator\.m2\repository\io\qameta\allure\allure-model\2.13.3\allure-model-2.13.3.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\Administrator\.m2\repository\org\apache\tika\tika-core\1.20\tika-core-1.20.jar;C:\Users\Administrator\.m2\repository\org\jooq\joor-java-8\0.9.10\joor-java-8-0.9.10.jar;C:\Users\Administrator\.m2\repository\org\junit\platform\junit-platform-launcher\1.5.2\junit-platform-launcher-1.5.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Administrator"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\Java\jdk1.8.0_45\jre"/>
+    <property name="basedir" value="D:\Test_java\IdeaProjects\TestJunit"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="d:\tmp\surefire100757672549697299\surefirebooter797012649256333957.jar;C:\Users\Administrator\.m2\repository/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar"/>
+    <property name="sun.boot.class.path" value="D:\Java\jdk1.8.0_45\jre\lib\resources.jar;D:\Java\jdk1.8.0_45\jre\lib\rt.jar;D:\Java\jdk1.8.0_45\jre\lib\sunrsasign.jar;D:\Java\jdk1.8.0_45\jre\lib\jsse.jar;D:\Java\jdk1.8.0_45\jre\lib\jce.jar;D:\Java\jdk1.8.0_45\jre\lib\charsets.jar;D:\Java\jdk1.8.0_45\jre\lib\jfr.jar;D:\Java\jdk1.8.0_45\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="java.runtime.version" value="1.8.0_45-b14"/>
+    <property name="user.name" value="Administrator"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="6.1"/>
+    <property name="java.endorsed.dirs" value="D:\Java\jdk1.8.0_45\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="localRepository" value="C:\Users\Administrator\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="d:\tmp\"/>
+    <property name="java.version" value="1.8.0_45"/>
+    <property name="user.dir" value="D:\Test_java\IdeaProjects\TestJunit"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.library.path" value="D:\Java\jdk1.8.0_45\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;d:\Xshell\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\nodejs\;D:\apache-maven-3.5.4;D:\apache-maven-3.5.4\bin;C:\Users\Administrator\AppData\Local\Google\Chrome\Application;D:\Java\jdk1.8.0_45\bin;D:\Java\jdk1.8.0_45\jre\bin;I:\python\Scripts\;I:\python\;C:\Users\Administrator\AppData\Roaming\npm;D:\Java\jdk1.8.0_45\bin;D:\Android\android-sdk\platform-tools;D:\JetBrains\IntelliJ IDEA 2019.3.1\bin;;."/>
+    <property name="junit.jupiter.extensions.autodetection.enabled" value="true"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.45-b02"/>
+    <property name="java.ext.dirs" value="D:\Java\jdk1.8.0_45\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="div" classname="junit5.CalcTest" time="0.175"/>
+</testsuite>
